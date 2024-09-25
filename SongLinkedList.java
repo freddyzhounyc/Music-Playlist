@@ -2,11 +2,6 @@
  * The SongLinkedList Class is the ADT of a doubly linked list that acts as a playlist for Songs.
  *
  * @author Freddy Zhou
- *      Email: freddy.zhou@stonybrook.edu
- *      Stony Brook ID: 116580337
- *      HW #2 - Playlist
- *      CSE 214
- *      Recitation Number: R04 | TA Names: Veronica Oreshko, Anuj Sureshbhai, Alex Zuzow
  */
 // imports for javax to be able to play the wav files.
 import javax.sound.sampled.*;

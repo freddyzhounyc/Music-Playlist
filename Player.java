@@ -18,7 +18,7 @@ public class Player {
         String menuInput = "";
 
         while (!quit){
-            // prints out the menu options.
+            // Prints out the menu options.
             System.out.println("(A) Add Song to Playlist\n(F) Go to Next Song\n(B) Go to Previous Song\n(R) Remove Song from Playlist\n" +
                     "(L) Play a Song\n(C) Clear the Playlist\n(S) Shuffle Playlist\n(Z) Random Song\n(P) Print Playlist\n" +
                     "(T) Get the total amount of songs in the playlist\n(Q) Exit the playlist");

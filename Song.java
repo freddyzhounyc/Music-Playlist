@@ -2,11 +2,6 @@
  * The Song class includes what is a part of each song that will be added. Each song includes the name of the song, artist, album, and length in seconds.
  *
  * @author Freddy Zhou
- *      Email: freddy.zhou@stonybrook.edu
- *      Stony Brook ID: 116580337
- *      HW #2 - Playlist
- *      CSE 214
- *      Recitation Number: R04 | TA Names: Veronica Oreshko, Anuj Sureshbhai, Alex Zuzow
  */
 public class Song{
     private String name; // name of the song.

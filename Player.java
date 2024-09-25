@@ -2,11 +2,6 @@
  * The Player Class contains the actual system that implements Song, SongNode, and SongLinkedList to prompt the user with a menu and takes in inputs to perform those inputs.
  *
  * @author Freddy Zhou
- *      Email: freddy.zhou@stonybrook.edu
- *      Stony Brook ID: 116580337
- *      HW #2 - Playlist
- *      CSE 214
- *      Recitation Number: R04 | TA Names: Veronica Oreshko, Anuj Sureshbhai, Alex Zuzow
  */
 import java.util.Scanner;
 
